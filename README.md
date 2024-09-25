@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @owlsyoppul
+- 👀 I’m interested in becoming a Full Stack Developer
+- 🌱 I’m currently learning JS
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: JS was created in just 10 days by Brendan Eich, who originally called it Mocha
